@@ -4,7 +4,7 @@
 
 <style scoped>
 h1 {
-  animation-duration: 3s;
+  animation-duration: 1s;
   animation-name: colourAnimate;
   animation-iteration-count: infinite;
 }
